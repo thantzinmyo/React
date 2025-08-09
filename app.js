@@ -246,8 +246,8 @@ function App() {
       )}
 
       <div className="footer-links">
-        <a href="https://t.me/yourtelegramgroup" target="_blank" rel="noopener noreferrer">
-          Join Telegram Group
+        <a href="https://t.me/aiohubpsm" target="_blank" rel="noopener noreferrer">
+          Join Telegram Channel 
         </a>
         <a href="https://aistudio.google.com/app/apikey" target="_blank" rel="noopener noreferrer">
           Google AI Studio (API Key ရယူရန်)
